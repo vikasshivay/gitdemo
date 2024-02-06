@@ -1,0 +1,11 @@
+
+Create the foldeer -------------------- mkdir foldername------> ex: mkdir testgit 
+Create the file -------------- touch filename -------> touch test-----> empty file created 
+Change the directory ------ cd 
+List of the content in perticular directory ------------------ ls 
+Hidden files I want to see --------------- ls -a 
+Mv the data one to another --------------- mv /cp 
+Remove the files ------------- rm filename 
+Edit the data in the file -------------- using the editors like vim/nano/gedit /cat / > 
+File content iwant to check console itself ------- cat filename 
+Modified the content in the existing file ------------- using editors ---- vim filename ------------ alt+I ----insert ------shift+:-----enter--ESC--wq! Exit from the file 

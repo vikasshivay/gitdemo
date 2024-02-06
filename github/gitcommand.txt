@@ -1,0 +1,13 @@
+Create the branch --------- git branch branchname-------- git branch dev 
+Checkout the branch ----- git checkout branchname------- git checkout dev 
+List of the branched------ git branch 
+Local and remote branches ---- git branch -a 
+Configure details -------- git config --list 
+Configure the remote credentials ---------- git config --global user.name " remote usernam"----- git config --global user.email "remote useemail" 
+Status of the directory --- git status 
+Add the filles to staged area --- git add . Or git add filename 
+Save the modified file ---- git commit -m " based on your create applic info"----commit id generat3ed --- 
+Check the which remote rep is added in local or wher to push code from local to remote ------------- git remote -v 
+From start Need the add the remote repo to the local ------------ git remote add origin remoterepourl 
+Data from local to remote ----------- git push ---- 3 ways ---- git push -u origin branchname or git push --set-upstream origin branchname or git push 
+Data from remote to local ---------- git clone or git pull (latest updates) 
